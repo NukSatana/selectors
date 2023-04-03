@@ -1,0 +1,38 @@
+body {
+    margin: 0px 0px;
+}
+p {
+    margin: 0;
+}
+.wrap_b_yellow {
+    padding: 0 5px;
+    width: 30%;
+    border: 2px yellow solid;
+}
+.c_red {
+    color: red;
+}
+#fw {
+    font-weight: 600;
+}
+ol li + li {
+    list-style: none;
+}
+h3 ~ h4 {
+    color: aqua;
+}
+.block {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: 3px 0;
+}
+#lime {
+    background-color: lime;
+}
+#br50 {
+    border-radius: 50px;
+}
+.b_b {
+    border: 2px solid blue;
+}
